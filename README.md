@@ -4,6 +4,6 @@ Besides, a GAN model including a generator and a discriminator is used. After tr
 The data setg we used is from Kaggle contest. 
 
 
-References: 
-https://machinelearningmastery.com/autoencoder-for-classification/
-\\ https://www.kaggle.com/code/basel99/facial-recognition
+References:  
+https://machinelearningmastery.com/autoencoder-for-classification/  
+https://www.kaggle.com/code/basel99/facial-recognition 
