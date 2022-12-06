@@ -6,4 +6,4 @@ The data setg we used is from Kaggle contest.
 
 References: 
 https://machinelearningmastery.com/autoencoder-for-classification/
-https://www.kaggle.com/code/basel99/facial-recognition
+\\ https://www.kaggle.com/code/basel99/facial-recognition
